@@ -1,15 +1,15 @@
 {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
-    "phoneForTel": "555-779-4407",
-    "phoneFormatted": "(555) 779-4407",
+    "name": "McGovern Mowing",
+    "email": "McMow@gmail.com",
+    "phoneForTel": "412-779-4407",
+    "phoneFormatted": "(412) 779-4407",
     "address": {
-        "lineOne": "First Address Line",
+        "lineOne": "123 Mow Street",
         "lineTwo": "Second Address Line",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80206",
-        "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+        "city": "McGovern",
+        "state": "PA",
+        "zip": "15000",
+        "mapLink": "https://maps.app.goo.gl/wrYx1KdnUEpSbLDz6"
     },
-    "domain": "https://www.codestitch.app"
+    "domain": "https://www.mcgovernmowing.com"
 }
